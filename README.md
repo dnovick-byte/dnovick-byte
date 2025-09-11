@@ -22,6 +22,10 @@ My Github showcases all the projects that I'm happy to share out to the public. 
 ### 📫 How to reach me
 
 <div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://danielnovick.dev">
+    <img src="./logo.png" alt="Logo" height="28"/> 
+    <img src="https://img.shields.io/badge/DanielNovick.dev-%230A0A0A.svg?style=for-the-badge&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://www.linkedin.com/in/danielbnovick/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
