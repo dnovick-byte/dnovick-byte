@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-## Hi there 👋
-
 I'm Daniel Novick, a Computer Science and Business Honors Student at Lehigh University. 
 
 My Github showcases all the projects that I'm happy to share out to the public. Feel free to reach out to me with any questions/comments.
@@ -36,25 +33,25 @@ My Github showcases all the projects that I'm happy to share out to the public. 
 ### 🔭 I’m currently working on
 
 - riid, a ridesharing platform aimed at helping college students save money and travel more efficiently  
-- [gritty](https://grittyhiring.com/), a video-first recruitment and learning platform for sales professionals
+- [gritty](https://grittyhiring.com/), a video-first recruitment and learning platform for sales professionals  
+- Blockchain benchmarking research at [Lehigh Blockchain](https://wordpress.lehigh.edu/blockchain/)
 
 ### 📈 I have experience with
 
 <div display="flex">
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> 
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> 
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" alt="Express.js"/>
-
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </div>
 
 ### 🌱 I’m learning more about
@@ -62,12 +59,8 @@ My Github showcases all the projects that I'm happy to share out to the public. 
 <div display="flex">
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </div>
-
-### ⚡ Fun facts
-
-facts
-
-
--->
+<div display="flex">
+  <img src="https://img.shields.io/badge/Solana-%234DBA90.svg?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
+</div>
 
 
