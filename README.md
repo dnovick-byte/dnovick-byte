@@ -35,8 +35,8 @@ My Github showcases all the projects that I'm happy to share out to the public. 
 
 ### 🔭 I’m currently working on
 
-- A 
-- B
+- riid, a ridesharing platform aimed at helping college students save money and travel more efficiently  
+- [gritty](https://grittyhiring.com/), a video-first recruitment and learning platform for sales professionals
 
 ### 📈 I have experience with
 
