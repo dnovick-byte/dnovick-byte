@@ -35,9 +35,9 @@ My Github showcases all the projects that I'm happy to share out to the public. 
 
 ### 🔭 I’m currently working on
 
-- riid, a ridesharing platform aimed at helping college students save money and travel more efficiently  
-- [gritty](https://grittyhiring.com/), a video-first recruitment and learning platform for sales professionals  
 - Blockchain benchmarking research at [Lehigh Blockchain](https://wordpress.lehigh.edu/blockchain/)
+- [gritty](https://grittyhiring.com/), a video-first recruitment and learning platform for sales professionals  
+- riid, a ridesharing platform aimed at helping college students save money and travel more efficiently  
 
 ### 📈 I have experience with
 
