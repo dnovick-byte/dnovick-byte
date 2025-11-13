@@ -65,5 +65,7 @@ My Github showcases all the projects that I'm happy to share out to the public. 
 <div display="flex">
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
 </div>
-
+<div display="flex">
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+</div>
 
