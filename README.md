@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Daniel Novick, a Computer Science and Business Honors Student at Lehigh University. 
+I'm Daniel Novick, a Computer Science and Business Honors Graduate from Lehigh University. 
 
 My Github showcases all the projects that I'm happy to share out to the public. Feel free to reach out to me with any questions/comments.
 
