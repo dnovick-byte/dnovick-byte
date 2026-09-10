@@ -35,9 +35,7 @@ My Github showcases all the projects that I'm happy to share out to the public. 
 
 ### 🔭 I’m currently working on
 
-- Blockchain benchmarking research at [Lehigh Blockchain](https://wordpress.lehigh.edu/blockchain/)
-- [gritty](https://grittyhiring.com/), a video-first recruitment and learning platform for sales professionals  
-- riid, a ridesharing platform aimed at helping college students save money and travel more efficiently  
+- [Plated](https://www.useplated.com/), a mobile recipe manager and social cooking app
 
 ### 📈 I have experience with
 
